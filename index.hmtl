@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>test</title>
+</head>
+<body>
+	<main>
+		<h1 class="hidden">this is a headline</h1>
+		<section class="wrapper">
+			<h2 class="heading"></h2>
+			<p>this is some text</p>
+		</section>
+	</main>
+	nav>ul><li></li>
+
+</body>
+</html>
